@@ -1,0 +1,33 @@
+.h1 {
+  font-family: cursive;
+  font-weight: 500;
+  color: lightblue;
+  padding-left: 10px;
+}
+
+.li {
+  color: lightblue;
+}
+
+.navlink {
+  font-family: cursive;
+  color: lightblue;
+  padding: 0.5rem;
+  text-decoration: none;
+  padding-left: 30px;
+}
+
+.navlink:hover {
+  font-family: cursive;
+  color: white;
+  padding: 0.5rem;
+  text-decoration: none;
+  padding-left: 30px;
+}
+
+.link {
+  font-family: cursive;
+  color: black;
+  font-size: xx-large;
+  padding-left: 30px;
+}
